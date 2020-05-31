@@ -1,6 +1,6 @@
 ---<Manual(English)>--- 日本語は下(Japanese bottom)
 
-For AMD CPU --> https://github.com/covolog/VMware-unlocker-forAMD
+For AMD CPU --> https://github.com/covolog/unlocker-forAMD
 May be? AMD CPU CANNOT INSTALL Catalina10.15
 +-----------------------------------------------------------------------------+
 | IMPORTANT:   ONLY FOR VMware Workstation 15.5.0 15.5.1 15.5.2 15.5.3        |
